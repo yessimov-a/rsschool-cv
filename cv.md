@@ -16,3 +16,12 @@
   * [FCC - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc2adcc54c-dc1d-4932-ae7f-ef365b6ef66e/javascript-algorithms-and-data-structures)
   * [FCC - Front End Libraries Projects](https://www.freecodecamp.org/certification/fcc2adcc54c-dc1d-4932-ae7f-ef365b6ef66e/front-end-libraries)
   * [FCC - APIs and Microservices Projects](https://www.freecodecamp.org/certification/fcc2adcc54c-dc1d-4932-ae7f-ef365b6ef66e/apis-and-microservices)
+  
+## Contact Info
+ * [Telegram](http://t.me/azabraza98)
+ * Email: a.yessimov98@gmail.com
+ 
+## Links
+ * [Codepen](https://codepen.io/yessimov-a)
+ * [Github](https://github.com/yessimov-a?tab=repositories)
+ * [Codewars](https://www.codewars.com/users/yessimov-a)
