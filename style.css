@@ -85,3 +85,24 @@ a:hover, .navBtn:active {
     text-decoration: none;
     color:#000;
 }
+i {
+    margin: 5px;
+    font-size: 32px;
+}
+.icon-block {
+    display: flex;
+    align-items: center;
+}
+
+.fa-telegram {
+    color: #249cce;
+}
+.fa-envelope {
+    color: #c2493f;
+}
+.fa-codepen {
+    color: #131418;
+}
+.fa-github {
+    color: #131418;
+}
