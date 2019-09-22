@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 50px;
+    background: #252d32;
+}
+.container {
+    max-width: 974px;
+    margin: auto;
+    padding: 25px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 20px 2px #000000;
+}
+
+header {
+    display: flex;
+    align-items: center;
+}
+
+header h1, p {
+    margin: 0;
+}
+
+header ul {
+    margin-left: auto;
+}
+
+header article {
+    margin-left: 20px;
+}
+
+header .icon-block {
+    justify-content: flex-end;
+}
+
+.logo {
+    width: 120px;
+    height: 120px;
+    border: 3px solid #1dbfaf;
+    border-radius: 50%;
+}
