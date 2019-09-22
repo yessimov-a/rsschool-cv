@@ -48,3 +48,16 @@ h2 {
     padding: 0 0 0 40px;
     text-align: justify;
 }
+
+ul {
+    list-style: none;
+}
+
+.skills li {
+    display: inline;
+    padding: 5px;
+    color: #1dbfaf;
+    background: #1e2428;
+    border: 1px solid black;
+    border-radius: 5px;
+}
