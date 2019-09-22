@@ -61,3 +61,24 @@ ul {
     border: 1px solid black;
     border-radius: 5px;
 }
+
+a { 
+    text-decoration: none;
+    color:#000;
+}
+a:visited {
+    text-decoration: none;
+    color:#000;
+}
+a:hover {
+    text-decoration: none;
+    color:#000;
+}
+a:focus {
+    text-decoration: none;
+    color:#000;
+}
+a:hover, .navBtn:active { 
+    text-decoration: none;
+    color:#000;
+}
