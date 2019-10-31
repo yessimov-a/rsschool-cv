@@ -20,6 +20,7 @@
 ## Contact Info
  * [Telegram](http://t.me/azabraza98)
  * Email: a.yessimov98@gmail.com
+ * Phone: +7 702 306 5770
  
 ## Links
  * [Codepen](https://codepen.io/yessimov-a)
